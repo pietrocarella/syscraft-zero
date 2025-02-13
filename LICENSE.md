@@ -36,7 +36,3 @@ Se hai domande, vuoi richiedere un'autorizzazione speciale o semplicemente vuoi 
 - **Website:** [www.pietrocarella.it](http://www.pietrocarella.it)  
 
 Grazie ancora per aver scelto SYSCRAFT. Spero che ti sia utile e che ti aiuti a semplificare il tuo lavoro con i server. Buona configurazione! 😊
-
----
-
-Questa versione è più informale e "umana", ma mantiene tutte le clausole necessarie per proteggere il tuo lavoro. Inoltre, il tono colloquiale rende il testo meno formale e più personale, il che lo fa sembrare scritto da una persona reale.
