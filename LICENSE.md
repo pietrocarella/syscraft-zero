@@ -34,5 +34,3 @@ Se decidi di usare o condividere SYSCRAFT, ti chiedo gentilmente di citare la fo
 Se hai domande, vuoi richiedere un'autorizzazione speciale o semplicemente vuoi farmi sapere che stai usando SYSCRAFT, sono sempre felice di sentirti! Puoi contattarmi qui:  
 - **Email:** [pietrocarella@tutanota.com](mailto:pietrocarella@tutanota.com)  
 - **Website:** [www.pietrocarella.it](http://www.pietrocarella.it)  
-
-Grazie ancora per aver scelto SYSCRAFT. Spero che ti sia utile e che ti aiuti a semplificare il tuo lavoro con i server. Buona configurazione! 😊
