@@ -36,7 +36,7 @@ SYSCRAFT è una raccolta di script personalizzati progettati per semplificare l'
 
 3. Esegui uno degli script disponibili. Ad esempio, per installare e configurare un server web con Apache:
    ```bash
-   bash Web_Server.sh
+   ./Web_Server.sh
    ```
 
 > **Nota:** Il repository è attualmente in fase di sviluppo. Gli script verranno aggiunti progressivamente. Segui le istruzioni nel file `INSTALL.md` per ulteriori dettagli.
